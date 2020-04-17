@@ -10,7 +10,7 @@
 </head>
 <body>
     <header>
-        <h1 class="logo"><a href="index.php">Animal Crossing</a></h1> 
+        <h1 class="logo"><img src="res/img/acl-logo.png" alt="Animal Crossing List" width="150px"></h1> 
         <nav>
             <?php require 'inc/login.php';?>
         </nav>
